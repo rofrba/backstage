@@ -1,0 +1,15 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: hello-world
+  annotations:
+    argocd/app-name: hello-world
+  tags:
+    - springboot
+    - api
+    - microservice
+spec:
+  type: service
+  lifecycle: production
+  owner: default/user1
