@@ -12,4 +12,4 @@ metadata:
 spec:
   type: service
   lifecycle: production
-  owner: default/user1
+  owner: user:default/user1
