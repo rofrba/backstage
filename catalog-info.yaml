@@ -5,7 +5,7 @@ metadata:
   name: hello-world
   annotations:
     argocd/app-name: hello-world
-    backstage.io/kubernetes-id: hello-world
+    backstage.io/kubernetes-id: hello-kustomize-webapp
     backstage.io/kubernetes-namespace: backstage-test
   tags:
     - springboot
