@@ -10,6 +10,7 @@ metadata:
     tekton.dev/cicd: "true"
     janus-idp.io/tekton: hello-world
     quay.io/repository-slug: 'ralvarezbackstage/hello-world'
+    sonarqube.org/project-key: "sonarqube-dev/hello-world"
   tags:
     - springboot
     - api
