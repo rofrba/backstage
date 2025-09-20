@@ -8,6 +8,7 @@ metadata:
     backstage.io/kubernetes-id: hello-world
     backstage.io/kubernetes-namespace: backstage-test
     tekton.dev/cicd: "true"
+    janus-idp.io/tekton: hello-world
   tags:
     - springboot
     - api
