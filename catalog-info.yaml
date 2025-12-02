@@ -5,7 +5,7 @@ metadata:
   name: hello-world
   annotations:
     goharbor.io/repository-slug: ralvarez/test
-    jenkins.io/job-full-name: my-quarkus-app-dev
+    jenkins.io/job-full-name: alfred.deployer.uuaa.listener
   tags:
     - springboot
     - api
