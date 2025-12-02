@@ -5,7 +5,7 @@ metadata:
   name: hello-world
   annotations:
     goharbor.io/repository-slug: ralvarez/test
-    jenkins.io/job-full-name: development:test
+    jenkins.io/job-full-name: test
   tags:
     - springboot
     - api
