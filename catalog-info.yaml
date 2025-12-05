@@ -6,6 +6,8 @@ metadata:
   annotations:
     goharbor.io/repository-slug: ralvarez/test
     jenkins.io/job-full-name: alfred.deployer.uuaa.listener
+    backstage.io/kubernetes-id: 'hello-world'
+    backstage.io/kubernetes-namespace: 'ris-dev'
   tags:
     - springboot
     - api
