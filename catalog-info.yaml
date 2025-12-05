@@ -8,6 +8,7 @@ metadata:
     jenkins.io/job-full-name: alfred.deployer.uuaa.listener
     backstage.io/kubernetes-id: 'hello-world'
     backstage.io/kubernetes-namespace: 'ris-dev'
+    sonarqube.org/project-key: dev/core-padrones
   tags:
     - springboot
     - api
