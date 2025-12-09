@@ -8,6 +8,7 @@ metadata:
     backstage.io/kubernetes-id: 'hello-world'
     backstage.io/kubernetes-namespace: 'ris-dev'
     sonarqube.org/project-key: dev/ar.com.smg:java-sprint-boot-template
+    goharbor.io/repository-slug: ralvarez/test
   tags:
     - springboot
     - api
