@@ -4,11 +4,11 @@ kind: Component
 metadata:
   name: hello-world
   annotations:
+    goharbor.io/repository-slug: ralvarez/test
     jenkins.io/job-full-name: alfred.deployer.uuaa.listener
     backstage.io/kubernetes-id: 'hello-world'
     backstage.io/kubernetes-namespace: 'ris-dev'
     sonarqube.org/project-key: dev/ar.com.smg:java-sprint-boot-template
-    goharbor.io/repository-slug: ralvarez/test
   tags:
     - springboot
     - api
