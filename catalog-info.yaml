@@ -11,6 +11,7 @@ metadata:
     sonarqube.org/project-key: dev/ar.com.smg:java-sprint-boot-template
     argocd/app-name: bus-dev
     argocd/instance-name: rosa-dev
+    backstage.io/techdocs-ref: dir:.
   tags:
     - springboot
     - api
