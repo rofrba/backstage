@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: JiraComponent
+metadata:
+  name: test-manual
+  description: "Prueba de Kind"
+spec:
+  type: service
+  owner: group:default/admin
+  lifecycle: experimental
